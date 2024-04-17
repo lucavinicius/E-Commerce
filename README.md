@@ -60,3 +60,9 @@ Table of Contents
 - Enhance model capacity to handle larger datasets and complex features.
 - Incorporate advanced machine learning algorithms such as deep learning and ensemble methods.
 - Expand the user interface with more intuitive data visualizations and interactive features.
+
+**Name: Lokesh G**
+
+**NM ID: aut51332110701**
+
+**College Name: University College Of Engineering - Arni**
